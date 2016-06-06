@@ -21,7 +21,7 @@ Do not use the Token. Do not use the Bot ID. Do not use the Secret. You want to 
 
 If you would like, you can also append required permissions to the end of your link.
 
->Information on permissions in the link:  https://discordapp.com/developers/docs/topics/permissions
+>Further information on permissions:  https://discordapp.com/developers/docs/topics/permissions
 
 >Example oauth link with permissions: https://discordapp.com/oauth2/authorize?client_id=170242612425392128&scope=bot&permissions=536083519
 
