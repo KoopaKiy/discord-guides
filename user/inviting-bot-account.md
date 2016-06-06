@@ -1,4 +1,4 @@
-#Inviting a bot to your server
+#Inviting a bot account to your server
 In the past, bots joined a server by either processing an invite link that was PMed to them, or their owner manually logging in and joining the server. Now, you can authorize the bot yourself and control what bots enter your server.
 
 ##Required permissions
@@ -19,7 +19,7 @@ Do not use the Token. Do not use the Bot ID. Do not use the Secret. You want to 
 
 ![Client ID](http://i.imgur.com/vSj2IZX.png)
 
-If you would like, you can also append required permissions to the end of your link.
+If you would like, you can also append needed permissions to the end of your link. This is not a requirement, and will simply create a role for the bot with these permissions when it is invited.
 
 >Further information on permissions:  https://discordapp.com/developers/docs/topics/permissions
 
@@ -32,8 +32,8 @@ Once you have the link, click on it. You will see a screen similar to this.
 
 **1.** Select your server you want to add them to. Remember, you need Manage Server permission for the server to even show up here.
 
-**2.** What permissions you want to give the bot by default. I trust RH1-N0, so I gave him all of them.
+**2.** Choose what permissions you want to give the bot by default. I trust RH1-N0, so I gave him all of them.
 
 **3.** Authorize the bot to join your server.
 
-The bot should now be in your server! If you gave it added permissions, it should even have it's own role with those permissions that you can then edit or delete.
+The bot should now be in your server! If you gave it added permissions, it should have it's own role with those permissions that you can then edit or delete.
