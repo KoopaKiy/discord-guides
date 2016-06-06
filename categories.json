@@ -19,7 +19,22 @@
     "name": "User Guides",
     "file": "user",
 
-    "documents": []
+    "documents": [
+      {
+        "name": "Direct Messages and Friends: The Basics",
+        "file": "direct-messages-and-friends.md"
+      },
+
+      {
+        "name": "Server Overview",
+        "file": "server-overview.md"
+      },
+
+      {
+        "name": "Messages",
+        "file": "messages.md"
+      }
+    ]
   },
 
   {
@@ -30,6 +45,16 @@
       {
         "name": "Kicks and Bans",
         "file": "kicks-and-bans.md"
+      },
+      
+      {
+        "name": "Creating a Channel",
+        "file": "creating-a-channel.md"
+      },
+
+      {
+        "name": "Server Best Practices",
+        "file": "server-best-practices.md"
       }
     ]
   },
