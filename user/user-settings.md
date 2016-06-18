@@ -4,7 +4,7 @@ There are quite a few settings that you can customize with your discord account.
 To open these settings, click on the gear icon in the bottom left of the screen.
 
 ##Account
-[Unclaimed](http://i.imgur.com/98WZQHK.png)
+![Unclaimed](http://i.imgur.com/98WZQHK.png)
 
 This is the screen you'll see when you first create an account. First, you should fill in an email and password so you can log into your account later. After entering the email and password, check your email and verify the account.
 
@@ -18,7 +18,7 @@ This is the screen you'll see when you first create an account. First, you shoul
 
 ##Connections
 
-[Connections](http://i.imgur.com/jKHEQne.png)
+![Connections](http://i.imgur.com/jKHEQne.png)
 
 **1.** The available connections you can make to your account.
 
@@ -32,7 +32,7 @@ This is the screen you'll see when you first create an account. First, you shoul
 
 ##Friends
 
-[Friends](http://i.imgur.com/kQak1Op.png)
+![Friends](http://i.imgur.com/kQak1Op.png)
 
 **1.** Toggles if people can search for you by your email address.
 
@@ -42,7 +42,7 @@ For more information on friends, see [the Crossroads guide to friends](http://gu
 
 ##Text & Images
 
-[TextImages](http://i.imgur.com/dYmilDT.png)
+![TextImages](http://i.imgur.com/dYmilDT.png)
 
 **1.** This controls if Discord shows images posted to chat.
 
@@ -56,7 +56,7 @@ For more information on friends, see [the Crossroads guide to friends](http://gu
 
 This one has two menus. Let's start on Basic.
 
-[Basic](http://i.imgur.com/znIX550.png)
+![Basic](http://i.imgur.com/znIX550.png)
 
 **1.** What device you want Discord to listen to. AKA, your microphone. Default uses whatever the system has set.
 
@@ -66,13 +66,13 @@ This one has two menus. Let's start on Basic.
 
 **4.** Choose Push to Talk or Voice Activity. PPT requires you to press a key whenever you want to talk. Voice Activity listens for whenever your sound goes over a certain threshhold.
 
-[PPT](http://i.imgur.com/9lb27dH.png)
+![PPT](http://i.imgur.com/9lb27dH.png)
 
 **a.** What you want your PPT key to be.
 
 **b.** How long you want Discord to wait after you press your key to when people can hear you.
 
-[Voice Activity](http://i.imgur.com/nhk11GI.png)
+![Voice Activity](http://i.imgur.com/nhk11GI.png)
 
 **a.** Do you want Discord to automatically see what the base noise is and tell when you are talking?
 
@@ -80,7 +80,7 @@ This one has two menus. Let's start on Basic.
 
 And now for the Advanced menu.
 
-[Advanced](http://i.imgur.com/4VcEioo.png)
+![Advanced](http://i.imgur.com/4VcEioo.png)
 
 **1.** Should Discord try and cancel out any echos it hears? For example, if your speakers are too loud and your mic picks it up.
 
@@ -96,7 +96,7 @@ And now for the Advanced menu.
 
 ##Notifications
 
-[Notifs](http://i.imgur.com/5IDtZjs.png)
+![Notifs](http://i.imgur.com/5IDtZjs.png)
 
 **1.** Global setting for if you want Discord to be able to send you Desktop Notifications.
 
