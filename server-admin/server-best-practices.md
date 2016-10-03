@@ -116,8 +116,8 @@ There are a couple of decent chat moderator bots out there that can do a lot of 
     - Help command: `!!help`
 - StahpDozAds: [Invite to your server](http://oauth.sda.khionu.net)
     - SDA is another heavily customizable moderation bot which allows you to block advertisements from your server
-    - Server setup takes place through easy-to-use commands
-    - Help command: `@StahpDozAds#6818 help`
+    - Server setup takes place through easy-to-use commands (Web UI is in the works)
+    - Help command: `sda.help`
 
 ## Conclusion
 That's it! You made it! Your server is now (mostly) bullet-proof and ready for action.
