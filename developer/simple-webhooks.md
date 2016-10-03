@@ -1,6 +1,6 @@
 # Simple Webhooks
 
-Webhooks are a new way to send messages to a channel. They can be used by anybody with the link and a method to create POST requests without authentication and provide new ways to format messages. Currently, the ability to create webhooks are only in Canary and this feature is in Alpha. Therefor, things may change.
+Webhooks are a new way to send messages to a channel. They can be used by anybody with the link and a method to create POST requests without authentication and provide new ways to format messages. *Currently, the ability to create webhooks is only in Canary and this feature is in Alpha. Therefore, things may change.*
 
 ### Step 1: The interface
 
@@ -109,3 +109,5 @@ You cannot set the username as Clyde.
 You can use md notation (like Reddit). [Example text](https://thecrossroads.xyz/)
 
 Here is a guide on how to make all of your tweets post in a Discord channel: https://gist.github.com/jagrosh/7606268fc9f1d3e90ce9efc79294f960
+
+You can also use Slack formatted messages if you append `/slack` to the URL. Slack API documentation on webhooks: https://api.slack.com/incoming-webhooks
