@@ -91,6 +91,10 @@
       {
         "name": "Bot Best Practices for Public Bots",
         "file": "bot-best-practices.md"
+      },
+      {
+        "name": "Simple Webhooks",
+        "file": "simple-webhooks.md"
       }
     ]
   }
