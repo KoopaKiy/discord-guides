@@ -11,12 +11,19 @@ You need either the Administrator or the Manage Webhooks permission to create a 
 As you can see, I have already created a couple of them.
 
 **A.** This is where you go to manage the webhooks
+
 **B.** This is what you click on to create a webhook
+
 **C.** These are your already created webhooks
+
 **D.** This is the profile picture of your webhook (it can be changed on the fly when you send the request)
+
 **E.** This is the username of your webhook (it can be changed on the fly when you send the request)
+
 **F.** This tells you what channel the webhook is for (webhooks only work on the channel they are assigned)
+
 **G.** This is who created the webhook and at what point
+
 **H.** This is where you click to edit the webhook
 
 This is the view if you go into the channel settings and click Webhooks. It's similar, but only shows the webhooks for that channel.
@@ -30,10 +37,15 @@ So now, we're going to create one. I'm going to go through the Server Settings m
 ![CreateWebhook](http://i.imgur.com/cIBKfj2.png)
 
 **A.** This is where you click to change the profile picture
+
 **B.** This is the current information of the bot
+
 **C.** These buttons are for Delete, Cancel, and Save. They should be self explanitory
+
 **D.** This is where you change the username
+
 **E.** This is a dropdown box to select the channel the webhook is set for. It will only send to this channel
+
 **F.** The webhook url. You want to save this, as this is where you send the information to post the messages
 
 Edit the information to your liking, then click **Save**.
@@ -53,9 +65,13 @@ Now we need to configure it. It should look like this in the Body tab.
 ![SetupPostman](http://i.imgur.com/V3sJCip.png)
 
 **A.** This should be set to POST
+
 **B.** This is the URL of your webhook
+
 **C.** This should be set to raw for raw input
+
 **D.** This should be set to JSON
+
 **E.** This is where we input the code
 
 ### Step 4: Compose a message
