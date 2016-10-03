@@ -105,4 +105,7 @@ Congratulations! You have sent a message as a webhook.
 ### Other information
 
 You cannot set the username as Clyde.
+
 You can use md notation (like Reddit). [Example text](https://thecrossroads.xyz/)
+
+Here is a guide on how to make all of your tweets post in a Discord channel: https://gist.github.com/jagrosh/7606268fc9f1d3e90ce9efc79294f960
