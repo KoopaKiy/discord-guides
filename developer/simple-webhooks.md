@@ -103,11 +103,7 @@ But what if you want to change it up for just one message?
 Congratulations! You have sent a message as a webhook.
 
 ### Other information
-
-You cannot set the username as Clyde.
-
-You can use md notation (like Reddit). [Example text](https://thecrossroads.xyz/)
-
-Here is a guide on how to make all of your tweets post in a Discord channel: https://gist.github.com/jagrosh/7606268fc9f1d3e90ce9efc79294f960
-
-You can also use Slack formatted messages if you append `/slack` to the URL. Slack API documentation on webhooks: https://api.slack.com/incoming-webhooks
+* You cannot set the username as Clyde.
+* You can use md notation (like Reddit). [Example text](https://thecrossroads.xyz/)
+* Here is a guide on how to make all of your tweets post in a Discord channel: https://gist.github.com/jagrosh/7606268fc9f1d3e90ce9efc79294f960
+* You can also use Slack formatted messages if you append `/slack` to the URL. Slack API documentation on webhooks: https://api.slack.com/incoming-webhooks
